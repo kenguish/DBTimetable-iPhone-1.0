@@ -11,5 +11,7 @@ DB01R, DB02R, DB03R, Bus 1, 2, 3, 4, 5, 6, 7, 8 and 9
 
 This app uses the Three20 framework extensively, which should serve as a good example on how to integrate Three20 into your project. 
 
+https://github.com/kenguish/DBTimetable-iPhone-1.0/raw/master/Default.png
+
 If you are interested to extend the code, please feel free to contact the project
 maintainer on Github.
