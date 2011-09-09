@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemChildren</key>
+	<array>
+		<dict>
+			<key>itemTitle</key>
+			<string>Ferries</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Central / Discovery Bay ferry</string>
+					<key>last_updated</key>
+					<date>2009-05-01T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Ferry from Central (Pier 3)</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>ferry_to_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Ferry from Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>ferry_from_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB / Mui Wo Kai-to </string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Discovery Bay to Mui Wo</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>kaito_muiwo_from</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Mui Wo to Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>kaito_muiwo_to</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB / Peng Chau Kai-to</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>From Peng Chau</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>kaito_pengchau_from_pengchau</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>From Trappist Monastery</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>kaito_pengchau_from_trappistmonastery</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>From Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>kaito_pengchau_from_discoverybay</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>itemTitle</key>
+			<string>Buses</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB01R</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB01R from Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db01r_from_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB01R from Tung Chung</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db01r_to_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB01S</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB01S from DB(N) Commercial Centre</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db01s_from_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB01S from Tung Chung</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db01s_to_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB02R</string>
+					<key>last_updated</key>
+					<date>2008-12-16T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB02R from Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db02r_from_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB02R from Airport</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db02r_from_airport</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB03R</string>
+					<key>last_updated</key>
+					<date>2010-02-08T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB03R from Discovery Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db03r_from_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB03R from Sunny Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db03r_to_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>DB03P</string>
+					<key>last_updated</key>
+					<date>2010-02-08T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB03P from DB(N) Commercial Centre</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db03p_from_db</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>DB03P from Sunny Bay</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>db03p_to_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 1</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 1 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_01_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 1 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_01_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 2</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 2 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_02_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 2 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_02_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 3</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 3 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_03_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 3 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_03_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 4</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 4 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_04_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 4 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_04_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>C4</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Depart from DB Pier</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>c4_from_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>C9</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Depart from DB Pier</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>c9_from_db</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 5</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 5 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_05_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 5 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_05_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 6</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 6 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_06_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 6 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_06_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 7</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 7 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_07_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 7 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_07_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 8</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 8 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_08_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 8 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_08_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Bus 9</string>
+					<key>last_updated</key>
+					<date>2010-03-10T04:00:00Z</date>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 9 to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_09_to</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Bus 9 from Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>bus_09_from</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Discovery Bay Marina Club</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>From Club House to Plaza</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>marina_club_from_club_house</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>From Plaza to Club House</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>marina_club_from_plaza</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Discovery Bay Golf Club</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Commercial Ctr to Club House</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>golfclub_from_commerical_centre</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Club House to ferries</string>
+							<key>format</key>
+							<string>dbnewformat</string>
+							<key>filename</key>
+							<string>golfclub_from_clubhouse</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

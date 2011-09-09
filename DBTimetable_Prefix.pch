@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'DBTimetable' target in the 'DBTimetable' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "DBTimetableUrls.h"
+	#import <Three20/Three20+Additions.h>
+	#import <extThree20JSON/extThree20JSON.h>
+	#import <extThree20JSON/SBJSON.h>
+#endif
