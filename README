@@ -1,0 +1,15 @@
+DBTimetable-iphone 1.0
+September 9, 2011
+
+This is the original Discovery Bay Time Table, version 1.0 series for iPhone, available for AppStore download at:
+http://itunes.apple.com/hk/app/discovery-bay-timetable/id345351667
+
+Discovery Bay Timetable is an iPhone application for the Hong Kong Discovery Bay community to track the coming bus, ferry and kaito schedules. 
+
+Bus routes included: 
+DB01R, DB02R, DB03R, Bus 1, 2, 3, 4, 5, 6, 7, 8 and 9 
+
+This app uses the Three20 framework extensively, which should serve as a good example on how to integrate Three20 into your project. 
+
+If you are interested to extend the code, please feel free to contact the project
+maintainer on Github.
