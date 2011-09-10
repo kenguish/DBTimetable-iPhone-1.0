@@ -923,7 +923,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Cathy  Ting (R8Z765PY32)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -940,7 +940,6 @@
 					"\"$(SRCROOT)/Classes\"",
 				);
 				PRODUCT_NAME = DBTimetable;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3F65019E-D883-4C27-A217-DE9598AAFF40";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -949,6 +948,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = DBTimetable_Prefix.pch;
@@ -996,6 +996,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = DBTimetable_Prefix.pch;
@@ -1043,7 +1044,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Fleur Hong Kong";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = DBTimetable_Prefix.pch;
@@ -1058,7 +1059,6 @@
 					"\"$(SRCROOT)/Classes\"",
 				);
 				PRODUCT_NAME = DBTimetable;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8C316F87-B826-4893-89FD-4BF9DBFCAE07";
 				SDKROOT = iphoneos;
 			};
 			name = "Ad Hoc";
