@@ -16,3 +16,5 @@ This app uses the Three20 framework extensively, which should serve as a good ex
 
 If you are interested to extend the code, please feel free to contact the project
 maintainer on Github.
+
+For J2ME version, please go to https://github.com/kenguish/DBTimetable
