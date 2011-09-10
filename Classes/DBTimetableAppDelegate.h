@@ -3,7 +3,7 @@
 //  DBTimetable
 //
 //  Created by Kenneth Anguish on 12/8/09.
-//  Copyright Pulsely 2009. All rights reserved.
+//  Copyright 2009. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

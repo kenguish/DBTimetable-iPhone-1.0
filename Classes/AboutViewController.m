@@ -3,7 +3,7 @@
 //  DBTimeTable
 //
 //  Created by Kenneth Anguish on 7/23/09.
-//  Copyright 2009 Pulsely, Ltd. All rights reserved.
+//  Copyright 2009. All rights reserved.
 //
 
 #import "AboutViewController.h"

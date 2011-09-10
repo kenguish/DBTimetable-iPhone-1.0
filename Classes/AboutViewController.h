@@ -3,7 +3,7 @@
 //  HK Libraries
 //
 //  Created by Kenneth Anguish on 7/23/09.
-//  Copyright 2009 Tian Di Web, Ltd. All rights reserved.
+//  Copyright 2009. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
